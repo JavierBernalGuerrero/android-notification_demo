@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "545455333069",
+    "firebase_url": "https://notification-demo-dbb4f.firebaseio.com",
+    "project_id": "notification-demo-dbb4f",
+    "storage_bucket": "notification-demo-dbb4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545455333069:android:0c5d594539bbe50e",
+        "android_client_info": {
+          "package_name": "com.projects.android.notificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545455333069-7chdtbo9ga6pq9k8m9seqbb5em9hsj07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD93xdxmm0vz0Yb9kZR0BlrzXIaDEEDcsw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
